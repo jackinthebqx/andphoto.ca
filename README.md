@@ -31,6 +31,43 @@ Color palette from coolors.co: 994636
   FFF3EB,
   FAF9F6 - BACKGROUND,
   994636.
+
+FROM OPENAI:
   
-  
+"Behind the Scenes" section:
+
+Showcase behind-the-scenes photos and videos from photoshoots
+Give a glimpse into the photographer's process and equipment
+Provide information on the team that works with the photographer, including makeup artists, stylists, and assistants
+
+"Catalog and Lookbook" section:
+
+Present a portfolio of the photographer's work, including images from catalog and lookbook photoshoots
+Offer the option to filter by brand, campaign, or type of shoot
+Allow users to view images in a slideshow or full-screen mode
+
+"Fashion Editorial" section:
+
+Display a selection of the photographer's fashion editorial work
+Provide information on the publications and brands the photographer has worked with
+Allow users to view images in a slideshow or full-screen mode
+
+"Fittings" section:
+
+Present a portfolio of the photographer's fitting images
+Offer the option to filter by brand, campaign, or type of shoot
+Allow users to view images in a slideshow or full-screen mode
+
+"Portrait & Beauty Shots" section:
+
+Showcase the photographer's portrait and beauty shots
+Offer the option to filter by type of shoot (e.g. headshots, beauty shots, etc.)
+Allow users to view images in a slideshow or full-screen mode
+
+"Sessions" section:
+
+Allow registered users to view the photographer's availability on a calendar
+Allow users to book time slots for photoshoots
+Provide information on pricing and package options
+Allow users to upload any reference images or mood board before the session.
   
