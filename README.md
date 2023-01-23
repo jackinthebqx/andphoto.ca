@@ -98,6 +98,12 @@ I have a keen eye for detail and a commitment to excellence in my work. I'm dedi
 I invite you to take a look at my portfolio and if you like my style, don't hesitate to reach out for more information or to book a session with me. I look forward to working with you!"
 
 
+<img width="554" alt="image" src="https://user-images.githubusercontent.com/49352631/213954697-cca49f41-7bae-491d-bc16-b5e93c31bded.png">
+
+
+
+
+
 
 
 
