@@ -71,3 +71,33 @@ Allow users to book time slots for photoshoots
 Provide information on pricing and package options
 Allow users to upload any reference images or mood board before the session.
   
+From OPENAI, About Andrea:
+
+
+
+"Meet Andrea, a professional photographer with a passion for capturing beautiful moments and memories. Photography has been a lifelong fascination for her, and she is always excited to share the joy it brings with others.
+
+With a background in marketing, Andrea has spent many years perfecting her craft in fashion photography. She is exceptionally skilled in digital retouching, ensuring that every image is of the highest quality.
+
+Andrea values the cool and savvy people she collaborates with and is always impressed by their skills, ethics, and professionalism. She enjoys working with a team of experts to create stunning images that tell a story and leave a lasting impression.
+
+With a keen eye for detail and a commitment to excellence, Andrea is dedicated to delivering exceptional results to her clients. Whether you're looking for fashion photography, portrait photography, or beauty shots, Andrea is the perfect choice for capturing your unique vision.
+
+So if you're looking for a professional photographer who can bring your ideas to life, look no further than Andrea."
+
+From OPENAI, now in first person view.
+
+"Welcome to my website! I'm Andrea, a professional photographer with a lifelong passion for capturing beautiful moments and memories. I've always been fascinated by the art of photography and the joy it can bring to people.
+
+I have a background in marketing and many years of experience in fashion photography. I'm exceptionally trained and skilled in digital retouching, ensuring that every image is of the highest quality.
+
+I value the cool and savvy people I collaborate with, their skills, ethics, and remarkable professionalism. I enjoy working with a team of experts to create stunning images that tell a story and leave a lasting impression.
+
+I have a keen eye for detail and a commitment to excellence in my work. I'm dedicated to delivering exceptional results to my clients. Whether you're looking for fashion photography, portrait photography, or beauty shots, I'm the perfect choice for capturing your unique vision.
+
+I invite you to take a look at my portfolio and if you like my style, don't hesitate to reach out for more information or to book a session with me. I look forward to working with you!"
+
+
+
+
+
